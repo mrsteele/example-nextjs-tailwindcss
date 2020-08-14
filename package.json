@@ -1,0 +1,27 @@
+{
+  "name": "nextj-tailwindcss-example",
+  "version": "1.0.0",
+  "description": "An example of using nextjs and tailwind",
+  "main": "index.js",
+  "scripts": {
+    "build": "next build",
+    "start": "next start",
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrsteele/nextj-tailwindcss-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrsteele/nextj-tailwindcss-example/issues"
+  },
+  "homepage": "https://github.com/mrsteele/nextj-tailwindcss-example#readme",
+  "dependencies": {
+    "next": "^9.5.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
